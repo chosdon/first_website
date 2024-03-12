@@ -1,0 +1,84 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 34.1rem;
+}.group-33-Bzc {
+  box-sizing: border-box;
+  padding: 1.45rem 1.35rem 3.9rem 4.65rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  box-shadow: 0.8rem 0.8rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #8cc3e4;
+  border-radius: 1.5rem;
+}
+.group-33-Bzc .krisanski-tu2 {
+  margin: 0rem 3.2rem 3.25rem 0rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 3rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.group-33-Bzc .auto-group-5aza-njW {
+  width: 100%;
+  height: 26.3rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.group-33-Bzc .auto-group-5aza-njW .btech-engineering-physics-iit-guwahati-batch-2026-jhbdjsh-sjdnsjdc-djcbshdcj-cjbdcjdc-dcsjcj-dcn-sjc-jdcjsc-djcsjc-jshdc-d-ccs-8oN {
+  width: 28.1rem;
+  height: 24.1rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  text-align: center;
+  font-size: 2.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+}
+.group-33-Bzc .auto-group-5aza-njW .rectangle-54-LeY {
+  width: 20.2rem;
+  height: 5.3rem;
+  position: absolute;
+  left: 3.95rem;
+  top: 21rem;
+  background-color: #341f1b;
+  border-radius: 1.8rem;
+}
+.group-33-Bzc .auto-group-5aza-njW .know-more-G2Q {
+  width: 10.8rem;
+  height: 2.5rem;
+  position: absolute;
+  left: 8.65rem;
+  top: 22.45rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #f6f0f0;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}

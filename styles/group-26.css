@@ -1,0 +1,60 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 125.2rem;
+}.group-26-Syi {
+  box-sizing: border-box;
+  padding: 2.3rem 3.5rem 4.1rem 3.4rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  box-shadow: 1.6rem 1.6rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #f9f4f4;
+  border-radius: 1.6rem;
+}
+.group-26-Syi .notifications-mm6 {
+  margin-bottom: 5.1rem;
+  display: flex;
+  font-size: 3rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #15203c;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.group-26-Syi .rectangle-46-VSC {
+  margin-bottom: 1.6rem;
+  width: 100%;
+  height: 5.9rem;
+  background-color: rgba(229, 229, 229, 0.8999999762);
+  border-radius: 0.7rem;
+  flex-shrink: 0;
+}
+.group-26-Syi .rectangle-47-pUU {
+  margin-bottom: 1.6rem;
+  width: 100%;
+  height: 5.9rem;
+  background-color: rgba(217, 217, 217, 0.8999999762);
+  border-radius: 0.7rem;
+  flex-shrink: 0;
+}
+.group-26-Syi .rectangle-48-ZBA {
+  width: 100%;
+  height: 5.9rem;
+  background-color: rgba(217, 217, 217, 0.8999999762);
+  border-radius: 0.7rem;
+  flex-shrink: 0;
+}

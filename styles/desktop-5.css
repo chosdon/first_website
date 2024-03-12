@@ -1,0 +1,181 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.desktop-5-MoA {
+  box-sizing: border-box;
+  padding: 4.2rem 0.201rem 3.9rem 0.3rem;
+  width: 100%;
+  height: 53.1rem;
+  overflow: hidden;
+  position: relative;
+  background: linear-gradient(180deg, #c9e5f5 -0%, #64b3e1 100%);
+}
+.desktop-5-MoA .group-37-for {
+  width: 100%;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.desktop-5-MoA .group-37-for .auto-group-fnaq-ofA {
+  box-sizing: border-box;
+  padding: 0rem 20.499rem 0.3rem 12.1rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.desktop-5-MoA .group-37-for .auto-group-fnaq-ofA .auto-group-pdbr-7Qx {
+  margin-bottom: 5rem;
+  width: 100%;
+  height: 10.4rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.desktop-5-MoA .group-37-for .auto-group-fnaq-ofA .auto-group-pdbr-7Qx .ellipse-6-DD6 {
+  margin-right: 4.6rem;
+  width: 11.2rem;
+  height: 10.4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.desktop-5-MoA .group-37-for .auto-group-fnaq-ofA .auto-group-pdbr-7Qx .auto-group-shmv-gsN {
+  margin: 0.1rem 0;
+  height: calc(100% - 0.2rem);
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.desktop-5-MoA .group-37-for .auto-group-fnaq-ofA .auto-group-pdbr-7Qx .auto-group-shmv-gsN .xxx-n9i {
+  margin-bottom: 0.9rem;
+  font-size: 3rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-5-MoA .group-37-for .auto-group-fnaq-ofA .auto-group-pdbr-7Qx .auto-group-shmv-gsN .we-understand-that-every-student-has-different-needs-and-capabilities-which-is-why-we-create-such-a-wonderful-and-unique-curriculum-that-is-the-best-fit-for-every-student-7zc {
+  max-width: 95.1rem;
+  font-size: 2.3rem;
+  font-weight: 300;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.desktop-5-MoA .group-37-for .auto-group-fnaq-ofA .auto-group-bpue-ijW {
+  margin: 0rem 0rem 1.2rem 1.3rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.desktop-5-MoA .group-37-for .auto-group-fnaq-ofA .auto-group-bpue-ijW .contact-eNG {
+  margin-right: 23.2rem;
+  font-size: 3rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-5-MoA .group-37-for .auto-group-fnaq-ofA .auto-group-bpue-ijW .social-mSt {
+  margin-right: 21.6rem;
+  font-size: 3rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-5-MoA .group-37-for .auto-group-fnaq-ofA .auto-group-bpue-ijW .legal-hbS {
+  font-size: 3rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-5-MoA .group-37-for .auto-group-fnaq-ofA .auto-group-rktc-39W {
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.desktop-5-MoA .group-37-for .auto-group-fnaq-ofA .auto-group-rktc-39W .address-iit-guwahati-assam-indiaphone-9178007-18993-9189299-94957hours-10-00-18-00-mon-sat-NxU {
+  margin-right: 16rem;
+  max-width: 18.6rem;
+  font-size: 2rem;
+  font-weight: 300;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.desktop-5-MoA .group-37-for .auto-group-fnaq-ofA .auto-group-rktc-39W .linkedinfacebookinstagramxyoutube-2GL {
+  margin: 0.2rem 18.5rem 0rem 0rem;
+  max-width: 11.5rem;
+  font-size: 2rem;
+  font-weight: 300;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.desktop-5-MoA .group-37-for .auto-group-fnaq-ofA .auto-group-rktc-39W .terms-and-conditionprivacy-policy-Uu2 {
+  margin-top: 0.2rem;
+  max-width: 13rem;
+  font-size: 2rem;
+  font-weight: 300;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.desktop-5-MoA .group-37-for .auto-group-dthe-CKE {
+  width: 100%;
+  height: 5rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.desktop-5-MoA .group-37-for .auto-group-dthe-CKE .copyright-2023-xxx-all-rights-reserved-9VN {
+  width: 42.5rem;
+  height: 2.2rem;
+  position: absolute;
+  left: 50.4rem;
+  top: 2.8rem;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 200;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-5-MoA .group-37-for .auto-group-dthe-CKE .line-3-dfS {
+  width: 143.4995rem;
+  height: 2.8174rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+}
